@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jenny</h1>
 <h3 align="center">A passionate game and software developer from Toronto, Canada</h3>
 
