@@ -7,6 +7,10 @@
 
 - 👨‍💻 All of my projects are available at [https://jennyho1.github.io/](https://jennyho1.github.io/)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left"> https://www.linkedin.com/in/jennyh0/
+</p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jennyho1&theme=dark" alt="jennyho1" /></p>
 
 
